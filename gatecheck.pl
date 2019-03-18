@@ -1,6 +1,6 @@
 #!/usr/bin/perl
 
-# Copyright (c) 2016-2018, Iurii Gribov
+# Copyright (c) 2019  Iurii Gribov
 #
 # Use of this source code is governed by MIT license that can be
 # found in the LICENSE.txt file.

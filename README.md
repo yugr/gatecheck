@@ -48,6 +48,7 @@ module test(
   inout mcb3_rzq,
 `endif
 );
+```
 * macro definition of range will cause parse errors:
 ```
 wire [`MY_SIZE] x;
